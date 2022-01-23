@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About the Content Studied
+
+This study is based on the lives of [Pinguim do Laravel](https://www.youtube.com/c/PinguimdoLaravel):
+- [Creating first queues and jobs in Laravel](https://www.youtube.com/watch?v=fADU1GFbjwM)
+- [Diferences between Bus::batch and Bus::chain](https://www.youtube.com/watch?v=n6cb-Vjn0N4)
+- [Working with multiple queues and connections. Horizon configuration](https://www.youtube.com/watch?v=qoZAKdn_beA)
+- [Handling errors and send alert notifications](https://www.youtube.com/watch?v=dNDLYB2osII)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
